@@ -1,0 +1,69 @@
+---
+output: 
+  pdf_document:
+    latex_engine: pdflatex
+    template: C:/Users/Christopher/Documents/data-science/datascience-resume/christopherjunk-latex-cv.tex
+geometry: margin = .75in
+
+title: "CV"
+author: Christopher Junk
+
+jobtitle: "Political Science PhD Student"
+address: "341 Schaeffer Hall · Iowa City · IA 52242"
+fontawesome: yes
+email: christopher-hollis@uiowa.edu
+github: junkpolisci
+twitter: Junk_polisci
+phone: "309 313 3071"
+#web: https://christopherjunk.netlify.com/
+updated: yes
+
+keywords: R Markdown, academic CV, template
+
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 10pt
+linkcolor: blue
+urlcolor: blue
+---
+
+# Data Experience
+
+__Software Proficiency__: R, Stata, Excel, Python, Microsoft Office  
+
+
+__Research Assistant__, "Informal Economies, Societal Stability and Regime Resilience in China and Russia" with William Reisinger, Marina Zaloznaya, Wenfang Tang  \hfill January 2019 - present
+
+  >Managed and cleaneddata collected through surveys in China and Russia regards social networks and corruption. I used Stata and R to recode and restructure the dataset for use in analyses as well as estimating and interpreting analyses and reporting findings to the primary researchers.  
+
+__Managing Editor & Replication Analyst__, Foreign Policy Analysis \hfill May 2018 - present  
+
+>As managing I handle plagiarism reports, proofreading, and general workflow of manuscripts from submission to publication. As replication analyst I attempt to replicate the empirical analyses in manuscripts and correspond with authors to assure validity of inferences and correct coding practices.  
+
+#Relevant Coursework
+
+*POLI:5001	Introductory Methodology*: Learned probability theory and other basic building blocs of advanced statistical analyses for use in social science research.  
+
+*POLI:5003	Intermediate Methodology*: Covered the assumptions and implentation of ordinary least squares (OLS) regression as well as alternative methods, such as dealing with binary dependent variables.  
+
+*POLI:7003	Advanced Methodology*: A wide variety of more advanced methods using data from complex social science data generating processes. Some methods covered here include causal inference, interpolation/imputation, survey analyses, multilevel modeling, and time series analysis. 
+
+*POLI:7002	Time Series Analysis*: This course covered methodology used in the instances of time series, both single time series and cross-sectional analyses. Methodology covered include: AR(F)IMA, (G)ARCH, autoregressive distributed lag models (ADL), error-correction models (ECM), causal inference, time varying parameters, and system of equations/vector autoregression. 
+
+*POLI:7002	Networks*: In this course I learned how to model interconnectednesss in a network setting and use the inclusion of observation-dependency as an aspect of a model's analytical ability. Methodology covered includes: conditional uniform graph (CUG) tests, community detection, diffusion, network (logistic) regression, and the ERGM/SAOM class of models. 
+
+*POLI:7002	Modeling Time and Space*: Covered methodology relating to multi-level structure of data, duration analyses, and spatial analysis methodology. 
+
+*POLI:7450	Computational Methods for Comparative Politics*: Use a wide variety of methodology such as web scraping, text analysis, multi-level models, survey analysis, latent variables, and broad reproducible practice for data management and analysis.  
+
+# Education
+
+*University of Iowa*, PhD, Political Science \hfill 2016-present  
+
+*St. Ambrose University*, BA, International Studies and Spanish \hfill 2016
+
+
+# Conferences Presentations
+
+Midwest Political Science Association (2019)  
+Iowa Association of Political Scientists (2014, 2016)
