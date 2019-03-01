@@ -44,13 +44,13 @@ __Managing Editor & Replication Analyst__, Foreign Policy Analysis \hfill May 20
 
 *POLI:5001	Introductory Methodology*: Learned probability theory and other basic building blocs of advanced statistical analyses for use in social science research.  
 
-*POLI:5003	Intermediate Methodology*: Covered the assumptions and implentation of ordinary least squares (OLS) regression as well as alternative methods, such as dealing with binary dependent variables.  
+*POLI:5003	Intermediate Methodology*: Covered the assumptions and implementation of ordinary least squares (OLS) regression as well as alternative methods, such as dealing with binary dependent variables.  
 
 *POLI:7003	Advanced Methodology*: A wide variety of more advanced methods using data from complex social science data generating processes. Some methods covered here include causal inference, interpolation/imputation, survey analyses, multilevel modeling, and time series analysis. 
 
 *POLI:7002	Time Series Analysis*: This course covered methodology used in the instances of time series, both single time series and cross-sectional analyses. Methodology covered include: AR(F)IMA, (G)ARCH, autoregressive distributed lag models (ADL), error-correction models (ECM), causal inference, time varying parameters, and system of equations/vector autoregression. 
 
-*POLI:7002	Networks*: In this course I learned how to model interconnectednesss in a network setting and use the inclusion of observation-dependency as an aspect of a model's analytical ability. Methodology covered includes: conditional uniform graph (CUG) tests, community detection, diffusion, network (logistic) regression, and the ERGM/SAOM class of models. 
+*POLI:7002	Networks*: In this course I learned how to model interconnectednesss in a network setting and use the inclusion of observation-dependency as an aspect of a model's analytic ability. Methodology covered includes: conditional uniform graph (CUG) tests, community detection, diffusion, network (logistic) regression, and the ERGM/SAOM class of models. 
 
 *POLI:7002	Modeling Time and Space*: Covered methodology relating to multi-level structure of data, duration analyses, and spatial analysis methodology. 
 
