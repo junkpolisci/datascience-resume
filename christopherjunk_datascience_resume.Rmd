@@ -3,7 +3,7 @@ output:
   pdf_document:
     latex_engine: pdflatex
     template: C:/Users/Christopher/Documents/data-science/datascience-resume/christopherjunk_datascience_resume.tex
-geometry: margin = .75in
+geometry: margin = 1in
 
 title: "CV"
 author: Christopher Junk
@@ -37,7 +37,7 @@ urlcolor: blue
 
 # Skills & Expertise
 __Software Proficiency__: R, Stata, Excel, Python, Microsoft Office  
-__Methodology__:  Ordinary Least Squares (OLS), Maximum Likelihood Estimation (MLE), Markov-Chain Monte Carlo (MCMC), Time Series, Network Analysis, Spatial Analysis
+__Methodology__:  Ordinary Least Squares (OLS), Maximum Likelihood Estimation (MLE), Markov-Chain Monte Carlo (MCMC), Time Series, Network Analysis, Spatial Analysis  
 __Soft skills:__ Collaboration, Oral/written communication, Time management
 
 # Data Experience
