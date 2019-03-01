@@ -2,7 +2,7 @@
 output: 
   pdf_document:
     latex_engine: pdflatex
-    template: C:/Users/Christopher/Documents/data-science/datascience-resume/christopherjunk-latex-cv.tex
+    template: C:/Users/Christopher/Documents/data-science/datascience-resume/christopherjunk_datascience_resume.tex
 geometry: margin = .75in
 
 title: "CV"
