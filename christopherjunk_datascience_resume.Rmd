@@ -3,7 +3,7 @@ output:
   pdf_document:
     latex_engine: pdflatex
     template: C:/Users/Christopher/Documents/data-science/datascience-resume/christopherjunk_datascience_resume.tex
-geometry: margin = 1in
+geometry: margin = .8in
 
 title: "CV"
 author: Christopher Junk
@@ -54,6 +54,36 @@ __Managing Editor & Replication Analyst__, Foreign Policy Analysis \hfill May 20
 
 >As replication analyst I attempt to replicate the empirical analyses in manuscripts and correspond with authors to assure validity of inferences and correct coding practices.  
 
+__Collaboratory Manager__, Department of Political Science, University of Iowa \hfill August 2018 - January 2019  
+
+>I managed the updating and maintenance of the computer lab for graduate students and undergrads enrolled in statistical courses. 
+
+> I served as an informal TA for undergraduate and graduate statistics courses. 
+
+>Assist undergraduate and graduate students in statistical modeling and analysis. 
+
+# Working Papers
+
+
+*Democratic Repression: Responding in Kind?*  
+
+> In this paper I use webscraped events data (SPEED Project) to analyze the dynamic relationship between public dissent and state repression. Using a series of random effects logit models I find that democracies typically respond to dissent with an equivalent use of force. 
+
+*Terrorism and Spanish Elections: Does Terrorism Impact Support for the Central Government?*
+
+> In this paper I use Spanish polling data to assess the impact of terrorism in Spain on support for the two major political parties. Using time series models (ADL and GECM) I find that only particularly catastrophic events influence public opinion, while average terrorism has no effect. 
+
+# Conferences Presentations
+
+Midwest Political Science Association (2019)  
+Iowa Association of Political Scientists (2014, 2016)
+
+
+
+
+
+
+
 <!-- #Relevant Coursework -->
 
 <!-- *POLI:5001	Introductory Methodology*: Learned probability theory and other basic building blocs of advanced statistical analyses for use in social science research.   -->
@@ -71,7 +101,4 @@ __Managing Editor & Replication Analyst__, Foreign Policy Analysis \hfill May 20
 <!-- *POLI:7450	Computational Methods for Comparative Politics*: Use a wide variety of methodology such as web scraping, text analysis, multi-level models, survey analysis, latent variables, and broad reproducible practice for data management and analysis.   -->
 
 
-# Conferences Presentations
 
-Midwest Political Science Association (2019)  
-Iowa Association of Political Scientists (2014, 2016)
