@@ -29,14 +29,14 @@ urlcolor: blue
 
 # Education
 
-*University of Iowa*, PhD, Political Science \hfill 2016-present  
+*University of Iowa*, PhD, Political Science \hfill expected 2020  
 
 >Major in statistical methodology and international relations.  
 
 *St. Ambrose University*, BA, International Studies and Spanish \hfill 2016
 
 # Skills & Expertise
-__Software Proficiency__: R, Stata, Excel, Python, Microsoft Office  
+__Software Proficiency__: R, Stata, Python
 __Methodology__:  Ordinary Least Squares (OLS), Maximum Likelihood Estimation (MLE), Markov-Chain Monte Carlo (MCMC), Time Series, Network Analysis, Spatial Analysis  
 __Soft skills:__ Collaboration, Oral/written communication, Time management
 
@@ -50,7 +50,7 @@ __Research Assistant__, "Informal Economies, Societal Stability and Regime Resil
 
 __Managing Editor & Replication Analyst__, Foreign Policy Analysis \hfill May 2018 - present  
 
->As managing I handle plagiarism reports, proofreading, and general workflow of manuscripts from submission to publication. 
+>As managing editor I handle plagiarism reports, proofreading, and general workflow of manuscripts from submission to publication. 
 
 >As replication analyst I attempt to replicate the empirical analyses in manuscripts and correspond with authors to assure validity of inferences and correct coding practices.  
 
