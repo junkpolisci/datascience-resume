@@ -24,7 +24,7 @@ Iowa City, IA 52242
 
 Dear Hiring Manager, 
 
-I write to introduce myself as an interested candidate for your available Data Science Internship. I think Infosys provides an exciting and challenging opportunity for me to step outside of political science and expand my skill set in my real passion: data science. 
+I write to introduce myself as an interested candidate for your available Data Scienctist position. I think Infosys provides an exciting and challenging opportunity for me to step outside of political science and expand my skill set in my real passion: data science. 
 
 In my coursework at the University of Iowa I have focused on applied statistics to address a wide variety of problems posed by observational data: time series, spatial, network, survival, and multi-level analysis. In each of these settings I have found myself deeply intrigued in the story the methods and data have to tell together about the world. As a result, I am moving forward in this vein using machine learning in my dissertation and looking to leave academia to pursue data science outside of academia. 
 
