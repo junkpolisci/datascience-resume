@@ -2,7 +2,7 @@
 output: 
   pdf_document:
     latex_engine: pdflatex
-    template: C:/Users/Christopher/Documents/data-science/datascience-resume/christopherjunk_datascience_resume.tex
+    template: C:/Users/Christopher/Documents/data-science/datascience-resume/CopyOfchristopherjunk_datascience_resume.tex
 geometry: margin = .8in
 
 title: "CV"
@@ -11,7 +11,7 @@ author: Christopher Junk
 jobtitle: "Political Science PhD Student"
 address: "341 Schaeffer Hall · Iowa City · IA 52242"
 fontawesome: yes
-email: christopher-junk@uiowa.edu
+email: christopher-junk@uiowa.edu  
 github: junkpolisci
 twitter: Junk_polisci
 phone: "309 313 3071"
@@ -37,7 +37,7 @@ urlcolor: blue
 
 # Skills & Expertise
 __Software Proficiency__: R, Stata, Python  
-\n __Methodology__:  Ordinary Least Squares (OLS), Maximum Likelihood Estimation (MLE), Markov-Chain Monte Carlo (MCMC), Time Series, Network Analysis, Spatial Analysis, Machine Learning, Natural Language Processing, Support Vector Machines, Decision Trees, Data Mining 
+__Methodology__:  Ordinary Least Squares (OLS), Maximum Likelihood Estimation (MLE), Markov-Chain Monte Carlo (MCMC), Time Series, Network Analysis, Spatial Analysis, Machine Learning, Natural Language Processing, Support Vector Machines, Decision Trees, Data Mining 
 
 # Data Experience
 
