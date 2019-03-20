@@ -36,9 +36,8 @@ urlcolor: blue
 *St. Ambrose University*, BA, International Studies and Spanish \hfill 2016
 
 # Skills & Expertise
-__Software Proficiency__: R, Stata, Python
-__Methodology__:  Ordinary Least Squares (OLS), Maximum Likelihood Estimation (MLE), Markov-Chain Monte Carlo (MCMC), Time Series, Network Analysis, Spatial Analysis  
-__Soft skills:__ Collaboration, Oral/written communication, Time management
+__Software Proficiency__: R, Stata, Python  
+\n __Methodology__:  Ordinary Least Squares (OLS), Maximum Likelihood Estimation (MLE), Markov-Chain Monte Carlo (MCMC), Time Series, Network Analysis, Spatial Analysis, Machine Learning, Natural Language Processing, Support Vector Machines, Decision Trees, Data Mining 
 
 # Data Experience
 

@@ -24,14 +24,14 @@ Iowa City, IA 52242
 
 Dear Hiring Manager, 
 
-I write to introduce myself as an interested candidate for your available Data Scienctist position. I think Infosys provides an exciting and challenging opportunity for me to step outside of political science and expand my skill set in my real passion: data science. 
+I write to introduce myself as an interested candidate for your available Data Science Intern position. I think Recorded Future provides an exciting and challenging opportunity for me to step outside of political science and expand my skill set in my real passion: data science. 
 
-In my coursework at the University of Iowa I have focused on applied statistics to address a wide variety of problems posed by observational data: time series, spatial, network, survival, and multi-level analysis. In each of these settings I have found myself deeply intrigued in the story the methods and data have to tell together about the world. As a result, I am moving forward in this vein using machine learning in my dissertation and looking to leave academia to pursue data science outside of academia. 
+In my coursework at the University of Iowa I have focused on applied statistics to address a wide variety of problems posed by observational data: time series, spatial, network, survival, and multi-level analysis. In my independent research I have used machine learning strategies such as decision trees, natural language processing, data mining, and other exploratory analysis approaches. In each of these settings I have found myself deeply intrigued in the story the methods and data have to tell together about the world. As a result, I am moving forward in this vein using machine learning in my dissertation and looking to leave academia to pursue data science outside of academia. 
 
 I am proficient in R and Stata, and I am improving my ability to use Python and SQL with freely available online materials and working on my own and collaborative projects. In addition to these abilities, I think joining your data science team gives me a great opportunity to grow and learn about these software and the methods implemented therein.
 
 
-I thank you for your time and consideration, and I look forward to an opportunity to learn more about the position and the work done at Infosys. 
+I thank you for your time and consideration, and I look forward to an opportunity to learn more about the position and the work done at Recorded Future. 
 
 
 Sincerely,  
