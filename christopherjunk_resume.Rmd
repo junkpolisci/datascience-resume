@@ -11,7 +11,7 @@ author: Christopher Junk
 jobtitle: "Political Science PhD Student"
 address: "341 Schaeffer Hall · Iowa City · IA 52242"
 fontawesome: yes
-email: christopher-hollis@uiowa.edu
+email: christopher-junk@uiowa.edu
 github: junkpolisci
 twitter: Junk_polisci
 phone: "309 313 3071"
