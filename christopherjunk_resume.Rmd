@@ -3,7 +3,7 @@ output:
   pdf_document:
     latex_engine: pdflatex
     template: C:/Users/Christopher/Documents/data-science/datascience-resume/CopyOfchristopherjunk_datascience_resume.tex
-geometry: margin = .8in
+geometry: margin = .75in
 
 title: "CV"
 author: Christopher Junk
@@ -31,12 +31,14 @@ urlcolor: blue
 
 *University of Iowa*, PhD, Political Science \hfill expected 2020  
 
->Major in statistical methodology and international relations.  
+>Major in statistical methodology and international relations. 
+
+>GPA: 3.93/4.00
 
 *St. Ambrose University*, BA, International Studies and Spanish \hfill 2016
 
 # Skills & Expertise
-__Software Proficiency__: R, Stata, Python  
+__Software Proficiency__: R, Stata, Python, SQL 
 __Methodology__:  Ordinary Least Squares (OLS), Maximum Likelihood Estimation (MLE), Markov-Chain Monte Carlo (MCMC), Time Series, Network Analysis, Spatial Analysis, Machine Learning, Natural Language Processing, Support Vector Machines, Decision Trees, Data Mining 
 
 # Data Experience

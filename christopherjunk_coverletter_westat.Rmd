@@ -1,0 +1,37 @@
+---
+output: pdf_document
+
+size: 12pt
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+Christopher Junk  
+christopher-junk@uiowa.edu  
+(309) 313-3071  
+Department of Political Science  
+University of Iowa  
+341 SH  
+Iowa City, IA 52242  
+
+
+\today
+
+
+Dear Hiring Manager, 
+
+I write to introduce myself as an interested candidate for your available Statistical Analyst and R Programmer position. I think Westat provides an exciting and challenging opportunity for me to step outside of political science and expand my skill set in my real passion: data analysis. 
+
+In my coursework at the University of Iowa I have focused on applied statistics to address a wide variety of problems posed by observational data: time series, spatial, network, survival, and multi-level analysis. In my work as a research assistant for Professor William Reisinger I have undertaken the cleaning, restructuring, analyzing, and reporting of survey data collected regarding informal economic networks in Russia and China. In my independent research I have used machine learning strategies such as random forests, natural language processing, data mining, and other exploratory analysis approaches. In each of these settings I have found myself deeply intrigued in the story the methods and data have to tell together about the world. As a result, I am moving forward in this vein using machine learning in my dissertation and looking to leave academia to pursue data analysis and programming as a career. 
+
+I am interested in working at Westat because I think it provides me the opportunity to hone and utilize my skills in data analysis for the benefit of others. Since my time in Iowa's PhD program began I have been drawn toward statistical analysis much more than other aspects of academia. As a result, I think a setting where analysis and programming is my primary function would be a great match for both Westat and myself. 
+
+I thank you for your time and consideration, and I look forward to an opportunity to learn more about the position and the work done at Westat. 
+
+
+Sincerely,  
+Christopher Junk
