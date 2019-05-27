@@ -43,7 +43,7 @@ urlcolor: blue
 
 # Projects  
 
-*White Extremist Webscrape: Frequency, Sentiments, and Topics* 
+*White Extremist Web Scrape: Frequency, Sentiments, and Topics* 
 
 > Scrape more than 5,000 comments automatically from an online White Supremacist forum discussing ideology/philosophy. 
 
