@@ -24,7 +24,7 @@ Iowa City, IA 52242
 
 Dear Hiring Manager, 
 
-I write to introduce myself as an interested candidate for your available Data Science position. I think John Deere provides an exciting opportunity for me to transition into the data science industry sector. As an academic, I have found myself time and time again more interested in exploring and analyzing data and the stories data tells than the rest of my academic responsibilities. I know that my experience on your team will be mutually beneficial because of my passion for using data to tell stories and make decisions.
+I write to introduce myself as an interested candidate for your available Data Science position. I think Zirous provides an exciting opportunity for me to transition into the data science industry sector. As an academic, I have found myself time and time again more interested in exploring and analyzing data and the stories data tells than the rest of my academic responsibilities. I know that my experience on your team will be mutually beneficial because of my passion for using data to tell stories and make decisions.
 
 In my coursework at the University of Iowa I have focused on applied statistics to address a wide variety of problems posed by observational data types such as: time series, spatial, network, survival, and multi-level  data. In each of these topics I have a deep understanding of the models and experience estimating and interpreting them. I have taken advantage of my time as a graduate student to take classes from experts on these methodologies and to use these tools in my own budding research projects. This allows me both an academic understanding and practical experience in using these models. 
 
@@ -35,7 +35,7 @@ In one recent web scraping project I gathered, cleaned, and analyzed more than 5
 I am most proficient in R and Stata, and have experience in Python and SQL as well. In addition to these abilities, I think joining your data science team gives me a great opportunity to grow and learn as a thinker, data scientist, and coder. 
 
 
-I thank you for your time and consideration, and I look forward to an opportunity to learn more about the position and the work done at John Deere. 
+I thank you for your time and consideration, and I look forward to an opportunity to learn more about the position and the work done at Zirous. 
 
 
 Sincerely,  
