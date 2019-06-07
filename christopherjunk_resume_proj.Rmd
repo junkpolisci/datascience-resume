@@ -10,7 +10,7 @@ header-includes:
 title: "CV"
 author: Christopher Junk
 
-#jobtitle: "Political Science PhD Student"
+jobtitle: "Political Science PhD Candidate, Research Assistant"
 #address: "341 Schaeffer Hall · Iowa City · IA 52242"
 fontawesome: yes
 email: christopher-junk@uiowa.edu  
@@ -29,13 +29,11 @@ linkcolor: blue
 urlcolor: blue
 ---
 
-
-
 # Education
 
 *University of Iowa*, PhD, Political Science \hfill expected Dec 2019  
 
->Major in statistical methodology and international relations. 
+>Major in econometrics and international relations. 
 
 *University of Iowa*, MA, Political Science \hfill May 2019
 
@@ -45,9 +43,7 @@ urlcolor: blue
 
 *White Extremist Web Scrape: Frequency, Sentiments, and Topics* 
 
-> Scrape more than 5,000 comments automatically from an online White Supremacist forum discussing ideology/philosophy. 
-
-> Visualize the forum's activity in a variety of ways including: activity over time, most used words, most active users, sentiment analysis, and more. 
+> Scrape more than 5,000 comments automatically from an online White Supremacist forum discussing ideology/philosophy. Visualize the forum's activity in a variety of ways including: activity over time, most used words, most active users, sentiment analysis, and more. 
 
 > Conduct sentiment analysis, and Latent Dirichlet Allocation topic modeling. Accessible via my website [blog](https://christopherjunk.netlify.com/blog/2019/05/24/white-extremist-webscrape-frequency-sentiments-and-topics/). 
 
@@ -55,45 +51,44 @@ urlcolor: blue
 
 > Restructure events data to country-month unit of analysis. Clean and restructure a variety of standard controls in political science research (regime type, economic indicators, conflict history, etc.) and join for full analysis. 
 
-> Estimate multilevel logistic models to account for group-level differences between countries. Model the relationship between domestic political dissent and state repression in democracies. 
+> Estimate multilevel logistic models to model the relationship between domestic political dissent and state repression in democracies. I conclude that democracies repress as a response to political dissent, despite their political promise not to. Rough draft available via my [GitHub page](https://github.com/junkpolisci/democracy_repression/blob/master/democratic_repression.pdf). 
 
-> Conclude that democracies repress as a response to political dissent, despite their political promise not to. Rough draft available via my [GitHub page](https://github.com/junkpolisci/democracy_repression/blob/master/democratic_repression.pdf). 
+*Terrorism and Spanish Elections: Does Terrorism Impact Support for the Central Government?*
 
-<!-- *Terrorism and Spanish Elections: Does Terrorism Impact Support for the Central Government?* -->
+> Estimate time series analysis to assess the impact of terrorism in Spain on support for the central government using machine coded events data and Spanish polling data. 
 
-<!-- > In this paper I use Spanish polling data to assess the impact of terrorism in Spain on support for the two major political parties. Using time series models (ADL and GECM) I find that only particularly catastrophic events influence public opinion, while average terrorism has no effect.  -->
+> Compare and contrast the autoregressive distributed lag (ADL) model and general error correction model (GECM) as part of a debate in the econometric political science literature. 
+
+<!-- In this paper I use Spanish polling data to assess the impact of terrorism in Spain on support for the two major political parties. Using time series models (ADL and GECM) I find that only particularly catastrophic events influence public opinion, while average terrorism has no effect. -->
 
 
 # Skills & Expertise
 __Software Proficiency__: R, Stata, Python, SQL  
 __Methodology__:  Ordinary Least Squares (OLS), Logistic Regression, Time Series, Network Analysis, Spatial Analysis, Machine Learning, Natural Language Processing, Support Vector Machines, Decision Trees, Data Mining  
 
+# Experience
 
-# Professional Experience 
+Research Assistant - Dr. Elizabeth Menninga \hfill Summer 2019  
 
-*Research Assistantships*  
+> Develop a method of simulating social networks conditional on the observed network via bootstrapping to quantify uncertainty of network statistics in R. 
 
-Dr. Elizabeth Menninga \hfill Summer 2019  
+Research Assistant - Dr. Bryce Dietrich \hfill Summer 2019  
 
-Dr. Bryce Dietrich \hfill Summer 2019  
+> Use millions of tweets to quantify 'otherization' of immigrants in the context of modern immigration events in R. 
 
-Dr. William Reisinger, Dr. Marina Zaloznaya, Dr. Wenfang Tang  \hfill Spring 2019
+Research Assistant - Dr. William Reisinger, Dr. Marina Zaloznaya, Dr. Wenfang Tang  \hfill Spring 2019
 
-> Served as empirical consultant to assist professors with grant-funded projects. 
+> Estimate regression and classification analysis on novel corruption survey data in China and Russia. I also created egonets out of embedded network vignettes in the survey. 
 
-> Cleaned and structured data to best fit empirical modeling requests made by faculty. 
+<!-- *Managing Editor/Replication Analysts Foreign Policy Analysis* -->
 
-> Conduct analysis using survey data (survey experiments, OLS regression, Logistic regression), network data (network regression, network visualizations, bootstrapping, ERGM), and text data (Twitter analysis).
+<!-- > Manage originality reports and workflow of over 200+ manuscripts per year. Assist the editorial team in reviewing and publishing manuscripts.   -->
 
-*Managing Editor/Replication Analysts Foreign Policy Analysis*
+<!-- > Reproduce empirical models of all published articles (20+ per year).  -->
 
-> Manage originality reports and workflow  of over 200+ manuscripts per year. Assist the editorial team in reviewing and publishing manuscripts.  
+<!-- *Teaching Assistantships*  -->
 
-> Reproduce empirical models of all published articles (20+ per year). 
-
-*Teaching Assistantships* 
-
-Fall 2016; Spring 2017; Summer 2017; Fall 2017; Spring 2018
+<!-- Fall 2016; Spring 2017; Summer 2017; Fall 2017; Spring 2018 -->
 <!-- # Conferences Presentations -->
 
 <!-- Midwest Political Science Association (2019)   -->
