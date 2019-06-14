@@ -3,13 +3,15 @@ output:
   pdf_document:
     latex_engine: pdflatex
     template: C:/Users/Christopher/Documents/data-science/datascience-resume/CopyOfchristopherjunk_datascience_resume.tex
-geometry: margin = .75in
+geometry: margin = .50in
+header-includes:
+  - \usepackage{setspace}\singlespacing
 
 title: "CV"
 author: Christopher Junk
 
-jobtitle: "Political Science PhD Student"
-address: "341 Schaeffer Hall · Iowa City · IA 52242"
+jobtitle: "Political Science PhD Candidate, Research Assistant"
+#address: "341 Schaeffer Hall · Iowa City · IA 52242"
 fontawesome: yes
 email: christopher-junk@uiowa.edu  
 github: junkpolisci
@@ -27,60 +29,85 @@ linkcolor: blue
 urlcolor: blue
 ---
 
+Pursuing a new opportunity in data science to help businesses make data-informed decisions. Relocating to Denver, CO July 1st.
+
+
 # Education
 
 *University of Iowa*, PhD, Political Science \hfill expected Dec 2019  
+*University of Iowa*, MA, Political Science \hfill May 2019  
 
->Major in statistical methodology and international relations. 
+* Major in econometrics and international relations. 
 
-*University of Iowa*, MA, Political Science \hfill May 2019
+*St. Ambrose University*, BA, International Studies and Spanish \hfill May 2016  
 
-*St. Ambrose University*, BA, International Studies and Spanish \hfill May 2016
+# Projects  
 
-# Skills & Expertise
-__Software Proficiency__: R, Stata, Python, SQL  
+*__Dissertation__: Political Prediction across Space and Time: Ensemble Machine Learning to Predict Terrorism and Protests*  
 
-__Methodology__:  Ordinary Least Squares (OLS), Maximum Likelihood Estimation (MLE), Markov-Chain Monte Carlo (MCMC), Time Series, Network Analysis, Spatial Analysis, Machine Learning, Natural Language Processing, Support Vector Machines, Decision Trees, Data Mining 
+* Build __ensemble machine learning__ models to predict political events (terrorism and protests) as locally as possible and at the finest temporal aggregation possible.
+* Clean, disaggregate, and combine many data types, e.g. geocoded event, climate, terrain, socio-economic, and historical data. 
 
-# Data Experience
+*White Extremist Web Scrape: Frequency, Sentiments, and Topics ([link to report](https://christopherjunk.netlify.com/blog/2019/05/24/white-extremist-webscrape-frequency-sentiments-and-topics/))* 
 
-__Research Assistant__, "Informal Economies, Societal Stability and Regime Resilience in China and Russia" with William Reisinger, Marina Zaloznaya, Wenfang Tang  \hfill January 2019 - present
+* Web scrape all comments (5,000 +) from online extremist forum.
+* Conduct __sentiment analysis__, activity monitoring, and __unsupervised machine learning__ topic modeling. 
 
->Cleaned survey data from 5,000 respondents in China and Russia. Merged China and Russia into a combined dataset for aggregate analysis. 
-  
->Restructured a series of ego-net questions into ego-alter dyads for analyses of informal economic activity networks.  
-  
->Estimate econometric analyses for answering the question: "who bribes whom?"  
+*Democratic Repression: Responding in Kind? ([available on my GitHub](https://github.com/junkpolisci/democracy_repression/blob/master/democratic_repression.pdf))*  
 
-__Managing Editor & Replication Analyst__, Foreign Policy Analysis \hfill May 2018 - present  
+* Aggregate and clean events data, join with economic, regime type, historical, and other datasets for analysis.
+* Model relationship between dissent and state repression using __multilevel logistic regression__ for all democratic nation-states 1945-present. 
 
->Manage plagiarism reports, profreading, and general workflow of over 200 manuscripts a year.  
+<!-- * Restructure events data to country-month unit of analysis. Clean and restructure a variety of standard controls in political science research (regime type, economic indicators, conflict history, etc.) and join for full analysis.  -->
+<!-- * Estimate multilevel logistic models to model the relationship between domestic political dissent and state repression in democracies. I conclude that democracies repress as a response to political dissent, despite their political promise not to. Rough draft available via my [GitHub page](https://github.com/junkpolisci/democracy_repression/blob/master/democratic_repression.pdf).  -->
 
->Replicate the empirical analyses in manuscripts and correspond with authors to assure validity of inferences and correct coding practices.  
-
-__Collaboratory Manager__, Department of Political Science, University of Iowa \hfill August 2018 - January 2019  
-
->Update and maintain the computer lab for graduate students and undergrads enrolled in statistical courses. 
-
->Informal TA for undergraduate and graduate statistics courses. 
-
->Assist undergraduate and graduate students in statistical modeling and analysis for personal research projects. 
-
-# Working Papers
-
-
-*Democratic Repression: Responding in Kind?*  
-
-> In this paper I use webscraped events data (SPEED Project) to analyze the dynamic relationship between public dissent and state repression. Using a series of random effects logit models I find that democracies typically respond to dissent with an equivalent use of force. 
 
 *Terrorism and Spanish Elections: Does Terrorism Impact Support for the Central Government?*
 
-> In this paper I use Spanish polling data to assess the impact of terrorism in Spain on support for the two major political parties. Using time series models (ADL and GECM) I find that only particularly catastrophic events influence public opinion, while average terrorism has no effect. 
+* Collect and join Spanish public opinion data over time (1993-2010) with terrorism and economic data from Spain.
+* Model relationship between terrorism and governmental support using __time series analysis (ADL and GECM models)__. 
+* Engage debate about using the ADL and GECM interchangeably, conclude that models are identical when interpreted correctly.
 
-# Conferences Presentations
+<!-- > Estimate time series analysis to assess the impact of terrorism in Spain on support for the central government using machine coded events data and Spanish polling data.  -->
+<!-- > Compare and contrast the autoregressive distributed lag (ADL) model and general error correction model (GECM) as part of a debate in the econometric political science literature.  -->
+<!-- In this paper I use Spanish polling data to assess the impact of terrorism in Spain on support for the two major political parties. Using time series models (ADL and GECM) I find that only particularly catastrophic events influence public opinion, while average terrorism has no effect. -->
 
-Midwest Political Science Association (2019)  
-Iowa Association of Political Scientists (2014, 2016)
+
+# Quantitative Experience
+<!-- # Skills & Expertise -->
+__Software Proficiency__: R, SQL, Python, Stata  
+<!-- __Methodology__:  Ordinary Least Squares (OLS), Logistic Regression, Time Series, Network Analysis, Spatial Analysis, Machine Learning, Natural Language Processing, Support Vector Machines, Decision Trees, Data Mining   -->
+Research Assistant - Dr. Elizabeth Menninga \hfill Summer 2019  
+
+* Develop a method of simulating social networks conditional on the observed network via __bootstrapping__ to quantify uncertainty of network statistics in R.
+
+Research Assistant - Dr. Bryce Dietrich \hfill Summer 2019  
+
+* Use millions of tweets to quantify 'otherization' of immigrants in the context of modern immigration events in R. 
+
+Managing Editor/Replication Analysts Foreign Policy Analysis \hfill May 2018 - Present
+
+* Manage originality reports and workflow of over 200+ manuscripts per year. Assist the editorial team in reviewing and publishing manuscripts. Replicate empirical work of all published manuscripts (20+ annually).
+
+Research Assistant - Dr. William Reisinger, Dr. Marina Zaloznaya, Dr. Wenfang Tang  \hfill Spring 2019  
+
+* Model relationship between social context and participation in bribery using __regression (OLS and logistic)__. 
+* Create ego nets from embedded egonet survey vignettes. 
+
+<!-- * Estimate regression and classification analysis on novel corruption survey data in China and Russia. I also created egonets out of embedded network vignettes in the survey.  -->
+
+<!-- __Relevant Coursework__: Introductory Methods (probability theory) - A; Intermediate Methods (OLS) - B+; Advanced Methods (mutli-level models, matching, nonlinear models, MLE, etc.) - A; Time Series Analysis - A; Social Network Analysis - A; Modeling Space and Time (spatial regression, duration analysis) - A; Computational Comparitive Politics (factor analysis, web scraping, natural language processing) - A -->
+ 
+
+<!-- > Reproduce empirical models of all published articles (20+ per year).  -->
+
+<!-- *Teaching Assistantships*  -->
+
+<!-- Fall 2016; Spring 2017; Summer 2017; Fall 2017; Spring 2018 -->
+<!-- # Conferences Presentations -->
+
+<!-- Midwest Political Science Association (2019)   -->
+<!-- Iowa Association of Political Scientists (2014, 2016) -->
 
 
 <!-- #Relevant Coursework -->

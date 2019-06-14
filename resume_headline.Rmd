@@ -1,9 +1,15 @@
 ---
-title: "resume_headline"
-author: "Christopher Junk"
-date: "6/14/2019"
-output: pdf_document
+output: 
+  pdf_document:
+    latex_engine: pdflatex
+    
+geometry: margin = .5in
+
+header-includes:
+    - \usepackage{setspace}\singlespacing
+
 ---
+
 
 Pursuing a career in data science to help businesses make data-informed decisions. Relocating to Denver, CO July 1st.  
 
@@ -12,18 +18,16 @@ Pursuing a career in data science to help businesses make data-informed decision
 
 *University of Iowa*, PhD, Political Science \hfill expected Dec 2019  
 
->Major in econometrics and international relations. 
+*  Major in econometrics and international relations. 
 
-*University of Iowa*, MA, Political Science \hfill May 2019
-
+*University of Iowa*, MA, Political Science \hfill May 2019  
 *St. Ambrose University*, BA, International Studies and Spanish \hfill May 2016
 
 ### Projects  
 
 *__Dissertation__: Political Prediction acros Space and Time: Ensemble Machine Learning to Predict Terrorism and Protests*  
 
-> Build ensemble machine learning models to predict political events as locally as possible and at the finest temporal aggregation possible. 
-
+> Build ensemble machine learning models to predict political events as locally as possible and at the finest temporal aggregation possible.  
 > Gather, clean, and collect geocoded event, climate, terrain, socio-economic, and historical data. Transform this data into usable format for analysis from a variety of storage types (e.g. shape files, raster files, webscraping). 
 
 *White Extremist Web Scrape: Frequency, Sentiments, and Topics* 
@@ -34,9 +38,9 @@ Pursuing a career in data science to help businesses make data-informed decision
 
 *Democratic Repression: Responding in Kind?*  
 
-> Restructure events data to country-month unit of analysis. Clean and restructure a variety of standard controls in political science research (regime type, economic indicators, conflict history, etc.) and join for full analysis. 
+* Restructure events data to country-month unit of analysis. Clean and restructure a variety of standard controls in political science research (regime type, economic indicators, conflict history, etc.) and join for full analysis. 
 
-> Estimate multilevel logistic models to model the relationship between domestic political dissent and state repression in democracies. I conclude that democracies repress as a response to political dissent, despite their political promise not to. Rough draft available via my [GitHub page](https://github.com/junkpolisci/democracy_repression/blob/master/democratic_repression.pdf). 
+* Estimate multilevel logistic models to model the relationship between domestic political dissent and state repression in democracies. I conclude that democracies repress as a response to political dissent, despite their political promise not to. Rough draft available via my [GitHub page](https://github.com/junkpolisci/democracy_repression/blob/master/democratic_repression.pdf). 
 
 *Terrorism and Spanish Elections: Does Terrorism Impact Support for the Central Government?*
 
